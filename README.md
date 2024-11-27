@@ -88,5 +88,5 @@ To replicate this project, you need the following:
 
 For queries or collaboration, feel free to reach out:
 
-**Name:** Menaka m
+**Name:** Menaka M
 **Email:**  menakamohan2003@gmail.com
