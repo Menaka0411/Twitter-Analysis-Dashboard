@@ -6,39 +6,6 @@ This project focuses on building a **Real-Time Twitter Analytics Dashboard** usi
 
 ---
 
-## Prerequisites
-
-To replicate this project, you need the following:
-
-- **Power BI Desktop**
-- **Python** installed with necessary libraries like `pandas` and `matplotlib`
-- **Twitter Dataset:** A dataset containing columns like `Tweet`, `Date`, `Time`, `Likes`, `Retweets`, and `Impressions`
-
----
-
-## How to Run
-
-1. **Prepare the Dataset:**
-   - Ensure your dataset includes required fields: `Tweet`, `Date`, `Time`, `Likes`, `Retweets`, `Impressions`.
-   - The dataset should be cleaned and structured before importing into Power BI.
-
-2. **Data Transformation in Power BI:**
-   - Import your dataset into Power BI.
-   - Use Power Query Editor to filter and clean data based on specified conditions (e.g., weekdays, time range, engagement metrics).
-
-3. **Python Integration in Power BI:**
-   - Enable Python scripting in Power BI to use Python visuals.
-   - Copy the provided Python scripts to generate visualizations for:
-     - Engagement rate analysis
-     - Top 10 tweets by engagement
-     - Comparison of tweets with/without app opens
-
-4. **Create Visualizations:**
-   - Use Power BI visuals and Python-generated charts to build your dashboard.
-   - Customize appearance and interactivity based on project requirements.
-
----
-
 ## Project Tasks
 
 ### 1. Top Engagement Rate Chart
@@ -67,14 +34,6 @@ To replicate this project, you need the following:
 
 ---
 
-## Skills Acquired
-
-- Data Visualization with Power BI
-- Python scripting for advanced analytics
-- Dataset preparation and cleaning
-- Real-time analytics dashboard design
-
----
 ### Screenshot 1
 ![Screenshot 1](Screenshot/img1.png)
 
