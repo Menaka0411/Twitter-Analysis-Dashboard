@@ -76,7 +76,7 @@ To replicate this project, you need the following:
 
 ---
 ### Screenshot 1
-![Screenshot 1](Screenshot/image1.png)
+![Screenshot 1](Screenshot/img1.png)
 
 ### Screenshot 2
 ![Screenshot 2](Screenshot/image2.png)
