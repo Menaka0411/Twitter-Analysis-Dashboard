@@ -6,14 +6,6 @@ This project focuses on building a **Real-Time Twitter Analytics Dashboard** usi
 
 ---
 
-## Features
-
-- **Top 10% Engagement Rates:** Display tweets with the highest engagement rates posted on weekdays with over 50 likes, filtered by specific time ranges and tweet word limits.
-- **Top 10 Tweets by Engagement:** Identify tweets with the highest sum of retweets and likes while considering tweet impressions, date, and word count constraints.
-- **Engagement Rate Comparison:** Analyze and visualize tweets with app opens versus those without, based on engagement rates and other defined filters.
-
----
-
 ## Prerequisites
 
 To replicate this project, you need the following:
@@ -83,10 +75,9 @@ To replicate this project, you need the following:
 - Real-time analytics dashboard design
 
 ---
+### Screenshot 1
+![Screenshot 1](Screenshot/image1.png)
 
-## Contact
+### Screenshot 2
+![Screenshot 2](Screenshot/image2.png)
 
-For queries or collaboration, feel free to reach out:
-
-**Name:** Menaka M
-**Email:**  menakamohan2003@gmail.com
